@@ -1,2 +1,2 @@
 # odin-recipes
-Site de receitas brasileiras feito em HTML puro para o exercício do site The Odin Project.
+Site de receitas brasileiras feito usando HTML+CSS para os exercícios do site The Odin Project.
